@@ -20,7 +20,7 @@ app.use(
       "https://cappah-international-backend.vercel.app",
       "https://cappah.com",
       "https://www.cappah.com",
-      
+      "https://cappah.vercel.app",
     ],
     credentials: true, // Allow cookies and credentials
   })
